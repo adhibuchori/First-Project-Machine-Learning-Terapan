@@ -5,7 +5,7 @@ Final Project of Machine Learning Terapan Course at Dicoding Indonesia
 
 ### Latar Belakang
 
-![Latar Belakang!](/assets/FirstProject-MLT-LatarBelakang.png "LatarBelakang")
+![Latar Belakang](/assets/FirstProject-MLT-LatarBelakang.png "Latar Belakang")
 
 Kesehatan Mental menurut seorang ahli kesehatan Merriam Webster merupakan suatu keadaan emosional dan psikologis yang baik dimana individu dapat memanfaatkan kemampuan kognisi, emosi, berfungsi dalam komunitasnya, dan memenuhi kebutuhan hidupnya sehari-hari [[1](http://eprints.undip.ac.id/38840/1/KESEHATAN_MENTAL.pdf#:~:text=Kesehatan%20mental%20menurut%20seorang%20ahli%20kesehatan%20Merriam%20Webster%2C,dalam%20komunitasnya%2C%20da%20n%20memenuhi%20kebutuhan%20hidupnya%20sehari-hari.)]. Kesehatan mental mempengaruhi kesejahteraan emosional, psikologis, dan sosial seseorang. Hal tersebut berpengaruh pada cara seseorang berpikir, merasakan, dan bertindak. Selain itu, kesehatan mental juga berpengaruh dalam membantu menentukan bagaimana seseorang menangani stres, interaksi dengan orang lain, dan menentukan pilihan.  
 
@@ -43,7 +43,7 @@ XGBoost yang merupakan singkatan dari Extreme Gradient Boosting merupakan librar
 
 ## Dataset Understanding
 
-![Dataset Understanding!](/assets/FirstProject-MLT-DatasetUnderstanding.png "DatasetUnderstanding")
+![Dataset Understanding](/assets/FirstProject-MLT-DatasetUnderstanding.png "Dataset Understanding")
 
 Dataset yang penulis gunakan dalam proyek ini, yaitu Dataset dengan judul Mental Health in Tech Survey yang diambil pada laman Kaggle [[3](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)]. Dataset tersebut berisikan 1259 data dengan  27 kolom. Berikut merupakan informasi lebih detail dari masing-masing kolom pada dataset:  
 * `timestamp` : Catatan digital tentang waktu terjadinya peristiwa tertentu.
@@ -113,7 +113,7 @@ GradientBoostingClassifier | 0.714286
 AdaBoostClassifier | 0.507937
 XGBClassifier | 0.761905
 
-![Tabel Metrik Akurasi !](/assets/FirstProject-MLT-AccuracyMetricDiagram.png "Tabel Metrik Akurasi")
+![Diagram Metrik Akurasi](/assets/FirstProject-MLT-AccuracyMetricDiagram.png "Diagram Metrik Akurasi")
 
 Dengan demikian, berdasarkan diagram dan tabel di atas, dapat disimpulkan bahwa model prediksi yang dibangun dengan menggunakan algoritma Random Forest merupakan model dengan tingkat akurasi tertinggi dengan akurasi sebesar 0,79 atau 79%.
 
