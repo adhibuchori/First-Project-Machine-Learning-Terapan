@@ -123,7 +123,7 @@ Karena model merupakan model klasifikasi, model yang telah dibangun akan dievalu
 
 Confusion matrix merupakan metode validasi data teks dari jumlah opini negatif dan positif yang tidak seimbang. Berikut merupakan ilustrasi dan penjelasan lebih detail dari confusion matrix:
 
-![Confusion Matrix Explanation!](/assets/FirstProject-MLT-ConfusionMatrixExplanation.png "Confusion Matrix Explanation")  
+![Confusion Matrix Explanation](/assets/FirstProject-MLT-ConfusionMatrixExplanation.png "Confusion Matrix Explanation")  
 
 Berikut merupakan penjelasan dari masing-masing nilai yang terdapat pada confusion matrix:
 * Nilai Prediksi adalah keluaran dari program dimana nilainya Positif dan Negatif.
@@ -135,7 +135,7 @@ Berikut merupakan penjelasan dari masing-masing nilai yang terdapat pada confusi
 
 Di samping itu, berikut merupakan ilustrasi dan penjelasan lebih detail dari nilai accuracy, recall, precision, dan kappa:
 
-![Nilai Evaluasi!](/assets/FirstProject-MLT-NilaiEvaluasi.png "Nilai Evaluasi")
+![Nilai Evaluasi](/assets/FirstProject-MLT-NilaiEvaluasi.png "Nilai Evaluasi")
 
 Berikut merupakan penjelasan dari masing-masing nilai:
 * Accuracy merupakan rasio antara prediksi yang benar dengan seluruh sampel yang diprediksi.
@@ -145,7 +145,7 @@ Berikut merupakan penjelasan dari masing-masing nilai:
 
 Berikut merupakan confusion matrix yang didapat dari model prediksi menggunakan algoritma dengan tingkat akurasi terbaik, yaitu Random Forest:
 
-![Confusion Matrix!](/assets/FirstProject-MLT-ConfusionMatrix.png "Confusion Matrix")
+![Confusion Matrix](/assets/FirstProject-MLT-ConfusionMatrix.png "Confusion Matrix")
 
 Adapun nilai accuracy, precision, recall, dan kappa yang penulis representasikan pada tabel berikut:
 Kategori | Evaluation Score
