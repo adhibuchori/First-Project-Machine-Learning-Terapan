@@ -3,6 +3,8 @@ Final Project of Machine Learning Terapan Course at Dicoding Indonesia
 
 ## Domain Proyek
 
+Domain proyek yang diambil untuk proyek machine learning ini, yaitu **Kesehatan** dengan judul **Predictive Analytics : Prediksi Kebutuhan Perawatan Kesehatan Mental terhadap Seorang Karyawan**
+
 ### Latar Belakang
 
 ![Latar Belakang](/assets/FirstProject-MLT-LatarBelakang.png "Latar Belakang")
